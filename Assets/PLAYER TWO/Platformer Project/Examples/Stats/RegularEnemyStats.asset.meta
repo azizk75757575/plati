@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4498a8de3ba9a8d458987985239838a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206584
+  packageName: Platformer Project
+  packageVersion: 1.9.2
+  assetPath: Assets/PLAYER TWO/Platformer Project/Examples/Stats/RegularEnemyStats.asset
+  uploadId: 727064
